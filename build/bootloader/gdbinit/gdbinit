@@ -1,0 +1,2 @@
+source /home/dani/github/rgb_matrix/rgb_matrix/build/bootloader/gdbinit/symbols
+source /home/dani/github/rgb_matrix/rgb_matrix/build/bootloader/gdbinit/connect
