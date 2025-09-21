@@ -1,0 +1,8 @@
+build/.bin_timestamp
+build/.ninja_deps
+build/.ninja_log
+build/rgb_matrix.bin
+build/rgb_matrix.elf
+build/rgb_matrix.map
+build/bootloader/.ninja_log
+build/esp-idf/main/libmain.a
