@@ -6,3 +6,4 @@ build/rgb_matrix.elf
 build/rgb_matrix.map
 build/bootloader/.ninja_log
 build/esp-idf/main/libmain.a
+build/esp-idf/main/CMakeFiles/__idf_main.dir/hello_world_main.c.obj
